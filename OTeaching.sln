@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OTeaching", "..\..\..\Downloads\Learning-Management-System-Project-in-ASP.net-Source-Code\OTeaching\", "{6B63A2C2-4DDD-45AD-A85E-270ECFEE5E4F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63045"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Downloads\Learning-Management-System-Project-in-ASP.net-Source-Code\OTeaching\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63045\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63045"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Downloads\Learning-Management-System-Project-in-ASP.net-Source-Code\OTeaching\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63045\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63045"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B63A2C2-4DDD-45AD-A85E-270ECFEE5E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B63A2C2-4DDD-45AD-A85E-270ECFEE5E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68AC2DB2-516E-4323-A9D2-B32FE7DD3EF0}
+	EndGlobalSection
+EndGlobal
